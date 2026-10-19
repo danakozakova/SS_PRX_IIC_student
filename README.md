@@ -11,6 +11,7 @@ PRX (Odborná prax), II.C, SPŠ IT Ignáca Gessaya v Tvrdošíne.
 
 ## Ostatné pokusy
 [nejaky pokus](https://danakozakova.github.io/SS_PRX_IIC_student/02_tema/02skusam.html)
+
 [skusal som obrazky](https://danakozakova.github.io/SS_PRX_IIC_student/04_tema/rohace.html)
 
 ## Čo som sa naučil(a)
